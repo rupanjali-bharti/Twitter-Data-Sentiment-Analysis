@@ -1,4 +1,4 @@
-# Twitter-Comments-Sentiment-Analysis
+# Twitter-Data-Sentiment-Analysis
 To classify the sentiment of social media text into three categories (Positive, Negative, Neutral) using the BERT (Bidirectional Encoder Representations from Transformers) architecture.
 
 # Methodology: Sentiment Analysis using BERT
